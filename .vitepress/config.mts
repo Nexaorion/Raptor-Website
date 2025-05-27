@@ -15,7 +15,8 @@ export default defineConfig({
       {
         text: '指南',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' }
+          { text: '什么是 Raptor？', link: '/guide/intro' },
+          { text: '快速上手', link: '/guide/quick-start' },
         ]
       }
     ],
