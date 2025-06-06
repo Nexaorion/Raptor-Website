@@ -16,3 +16,7 @@ Raptor 基于 Python 开发和编译而成，支持在绝大多数环境上运�
 ### 下载 {#download}
 
 你可以直接从 [GitLab](https://git.nexaorion.cn/nexaorion/raptor-website/) 中下载已编译的exe文件（仅Windows）
+
+下载完成后，直接运行 `raptor.exe` 即可。
+
+### 配置 {#configuration}
