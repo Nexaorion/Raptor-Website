@@ -22,9 +22,9 @@ We collect your information for the following purposes:
 
 We will only process your personal data with your consent, for the performance of a contract, to comply with legal obligations, or for legitimate interests as permitted by law.
 
-## 3. Use of Cookies and Similar Technologies {#how-we-use-machine-id-and-class-tracking-techniques}
+## 3. Use of Machine ID and Similar Technologies {#how-we-use-machine-id-and-class-tracking-techniques}
 
-We may use cookies, machine IDs, or similar technologies to collect device and network environment information for analytics, security, and service optimization. You may refuse or manage cookies through your browser settings, but this may affect your experience.
+We may use machine IDs, or similar technologies to collect device and network environment information for analytics, security, and service optimization. You may refuse or manage machine IDs through your browser settings, but this may affect your experience.
 
 ## 4. Third-Party Services and Data Sharing {#third-party-integration-and-sharing}
 
