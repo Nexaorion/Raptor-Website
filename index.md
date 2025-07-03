@@ -23,3 +23,9 @@ features:
     details: 支持 GZCTF 平台题目信息的获取、下载与flag提交，可与AI解题辅助配合使用
 ---
 
+<style>
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg,rgb(53, 104, 255) 30%,rgb(93, 147, 255))
+}
+</style>
