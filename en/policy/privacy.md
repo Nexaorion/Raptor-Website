@@ -63,8 +63,8 @@ To exercise your rights or for any privacy-related inquiries, please contact our
 
 Email: support@nexaorion.cn
 
-EU Representative: Nexaorion Groip
+EU Representative: Nexaorion Group
 
 ---
 
-This policy is effective as of 2025-06-30 18:00:00 UTC.
+This policy is effective as of 2025-07-09 10:00:00 UTC.
