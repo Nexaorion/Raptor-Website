@@ -22,7 +22,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'gitlab', link: 'https://git.nexaorion.cn/nexaorion/raptor-website' }
+      { icon: 'github', link: 'https://github.com/Nexaorion/Raptor' }
     ]
   },
   locales: {
